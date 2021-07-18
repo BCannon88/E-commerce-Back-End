@@ -8,9 +8,9 @@
 
 
  ![E-Commerce GET ONE Route](https://www.youtube.com/watch?v=UF4eHrxi-bk)
-
+ ![Alt Text](https://github.com/BCannon88/E-commerce-Back-End/blob/4bb07fe1eb748fee20885b30eaf62c2d649b0b58/assets/Challenge%2013%20GET%20ONE%20Routes%20for%20category,%20product%20and%20tag.gif)
  ![E-Commerce POST, PUT and DELETE Route](https://www.youtube.com/watch?v=tMZkMVPdsuY)
-
+![Alt Text](https://github.com/BCannon88/E-commerce-Back-End/blob/4bb07fe1eb748fee20885b30eaf62c2d649b0b58/assets/Challenge%2013%20POST,%20PUT,%20and%20DELETE%20Routes%20for%20categories,%20product%20and%20tag.gif)
 
   ## Description
 
