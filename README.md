@@ -2,11 +2,11 @@
 
  <img src="https://img.shields.io/badge/mybadge-MIT-blue" alt="badge with license name"/>
 
- ![E-Commerce GET ALL Route](https://youtu.be/f5etiQ4NZVo)
+ ![E-Commerce GET ALL Route](https://www.youtube.com/watch?v=f5etiQ4NZVo)
 
- ![E-Commerce GET ONE Route](https://youtu.be/UF4eHrxi-bk)
+ ![E-Commerce GET ONE Route](https://www.youtube.com/watch?v=UF4eHrxi-bk)
 
- ![E-Commerce POST, PUT and DELETE Route](https://youtu.be/tMZkMVPdsuY)
+ ![E-Commerce POST, PUT and DELETE Route](https://www.youtube.com/watch?v=tMZkMVPdsuY)
 
 
   ## Description
